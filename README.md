@@ -2,7 +2,9 @@
 <div align="center">
   <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" />
   </div>
-  # Hacktoberfest2021-Python
+  <h1>
+  <b>
+    # Hacktoberfest2021-Python</b></h1> </br>
 Follow the README below to get started! 🔥 
 
 ## The Process  ✅
