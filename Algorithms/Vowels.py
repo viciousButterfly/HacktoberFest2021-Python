@@ -1,4 +1,4 @@
-owels = 'aeiou'
+vowels = 'aeiou'
 
 ip_str = 'Hello, have you tried our tutorial section yet?'
 
