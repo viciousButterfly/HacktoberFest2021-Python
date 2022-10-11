@@ -3,7 +3,7 @@
   </div>
   <h1>
   <b>
-    # Hacktoberfest2021-Python</b></h1> </br>
+    # Hacktoberfest2022-Python</b></h1> </br>
 Follow the README below to get started! 🔥 
 
 ## The Process  ✅
