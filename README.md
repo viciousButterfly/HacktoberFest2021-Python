@@ -4,7 +4,7 @@
   <h1>
   <b>
     # Hacktoberfest2022-Python Projects for beginners</b></h1> </br>
-Follow the README below to get started! 🔥 
+Follow the README below to get started! 🔥 🔥 🔥 
 
 ## The Process  ✅
 
